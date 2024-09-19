@@ -16,7 +16,7 @@ function App() {
   return (
     <GlobalContextProvider>
       <>
-        <BrowserRouter>
+        <BrowserRouter basename="/final-movie-react-app">
           <Routes>
             <Route index element={<Home />} />
             <Route path="/home" element={<Home />} />
