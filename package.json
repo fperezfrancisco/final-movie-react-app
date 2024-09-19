@@ -5,8 +5,6 @@
   "homepage": "https://fperezfrancisco.github.io/movie-search-react",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
