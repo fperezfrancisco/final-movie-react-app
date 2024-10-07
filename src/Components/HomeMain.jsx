@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import SearchBar from "./SearchBar";
-import popcornBucket from "../assets/popcorn-imgs/popcornBucket.png";
+import popcornBucket from "../assets/popcorn-imgs/popcornBucket-min.png";
 import { useNavigate } from "react-router-dom";
 import { Context } from "../App";
 import { GlobalContext } from "../Context/GlobalContext";
