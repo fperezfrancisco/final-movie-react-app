@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import popcornLogo from "../assets/popcorn-imgs/popcornBucket.png";
+import popcornLogo from "../assets/popcorn-imgs/popcornBucket-min.png";
 import DesktopNav from "./DesktopNav";
 
 function Header() {
